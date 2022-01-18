@@ -12,5 +12,8 @@ public class CgClass1 {
 
         int k = 0;
         k++;
+
+        int j = 0;
+        j++;
     }
 }

@@ -6,6 +6,8 @@ public class CgClass1 {
     }
 
     public void method2(String test) {
-        System.out.println("com.xm.ggn.test.proxy.CgClass1.method2");
+        //System.out.println("com.xm.ggn.test.proxy.CgClass1.method2");
+        int i = 0;
+        i++;
     }
 }

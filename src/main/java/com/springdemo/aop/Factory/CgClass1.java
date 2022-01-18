@@ -10,5 +10,7 @@ public class CgClass1 {
         int k = 0;
         k++;
         k--;
+
+        System.out.println("Double kill");
     }
 }
